@@ -29,7 +29,7 @@
         "aggregation_date":{
             "year":2022,
             "month":11
-        }
+        },
       },
       {
         "id": 1,
@@ -60,7 +60,7 @@
         "aggregation_date":{
             "year":2022,
             "month":11
-        }
+        },
       },
       {
         "id": 2,
@@ -91,7 +91,7 @@
         "aggregation_date":{
             "year":2022,
             "month":11
-        }
+        },
       },
       {
         "id": 3,
@@ -122,8 +122,8 @@
         "aggregation_date":{
             "year":2022,
             "month":11
-        }
-      }
+        },
+      },
    
   }
   
