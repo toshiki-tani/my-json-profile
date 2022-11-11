@@ -1,0 +1,124 @@
+ {
+        "id": 0,
+        "profile": {
+          "speed": "51",
+          "leadership": "45",
+          "logical_analyze": "53",
+          "originality": "45",
+          "organize": "40",
+          "purpose": "50",
+          "empathy": "50",
+          "altruistic": "55",
+          "responsibility": "60",
+          "modesty": "42",
+          "tolerance": "54",
+          "diligence": "60",
+          "positiveness": "57",
+          "self_control": "48",
+          "narcissism": "65",
+          "stress": "50",
+          "self_confidence": "40",
+          "listen": "60",
+          "relationship_building": "50",
+          "communicativity": "55",
+          "challenge": "56"
+        },
+        "communication_type": 7,
+        "aggregation_date":{
+            "year":2022,
+            "month":11
+        }
+      },
+      {
+        "id": 1,
+        "profile": {
+          "speed": "50",
+          "leadership": "41",
+          "logical_analyze": "57",
+          "originality": "41",
+          "organize": "48",
+          "purpose": "58",
+          "empathy": "58",
+          "altruistic": "54",
+          "responsibility": "52",
+          "modesty": "48",
+          "tolerance": "52",
+          "diligence": "66",
+          "positiveness": "51",
+          "self_control": "43",
+          "narcissism": "55",
+          "stress": "58",
+          "self_confidence": "50",
+          "listen": "50",
+          "relationship_building": "20",
+          "communicativity": "53",
+          "challenge": "50"
+        },
+        "communication_type": 6,
+        "aggregation_date":{
+            "year":2022,
+            "month":11
+        }
+      },
+      {
+        "id": 2,
+        "profile": {
+          "speed": "51",
+          "leadership": "55",
+          "logical_analyze": "63",
+          "originality": "55",
+          "organize": "50",
+          "purpose": "60",
+          "empathy": "60",
+          "altruistic": "65",
+          "responsibility": "50",
+          "modesty": "52",
+          "tolerance": "64",
+          "diligence": "50",
+          "positiveness": "47",
+          "self_control": "58",
+          "narcissism": "55",
+          "stress": "60",
+          "self_confidence": "50",
+          "listen": "50",
+          "relationship_building": "60",
+          "communicativity": "65",
+          "challenge": "66"
+        },
+        "communication_type": 3,
+        "aggregation_date":{
+            "year":2022,
+            "month":11
+        }
+      },
+      {
+        "id": 3,
+        "profile": {
+          "speed": "52",
+          "leadership": "42",
+          "logical_analyze": "52",
+          "originality": "42",
+          "organize": "42",
+          "purpose": "52",
+          "empathy": "52",
+          "altruistic": "52",
+          "responsibility": "62",
+          "modesty": "42",
+          "tolerance": "52",
+          "diligence": "62",
+          "positiveness": "52",
+          "self_control": "42",
+          "narcissism": "62",
+          "stress": "52",
+          "self_confidence": "42",
+          "listen": "62",
+          "relationship_building": "52",
+          "communicativity": "52",
+          "challenge": "52"
+        },
+        "communication_type": 5,
+        "aggregation_date":{
+            "year":2022,
+            "month":11
+        }
+      }
