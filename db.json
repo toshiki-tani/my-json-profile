@@ -1,11 +1,31 @@
 {
-    "id": 1,
-    "name": "tanaka",
-    "result": [
-        87,
-        83,
-        71,
-        59,
-        91
-    ]
+  "id": 0,
+  "profile": {
+    "speed": "51",
+    "leadership": "45",
+    "logical_analyze": "53",
+    "originality": "45",
+    "organize": "40",
+    "purpose": "50",
+    "empathy": "50",
+    "altruistic": "55",
+    "responsibility": "60",
+    "modesty": "42",
+    "tolerance": "54",
+    "diligence": "60",
+    "positiveness": "57",
+    "self_control": "48",
+    "narcissism": "65",
+    "stress": "50",
+    "self_confidence": "40",
+    "listen": "60",
+    "relationship_building": "50",
+    "communicativity": "55",
+    "challenge": "56"
+  },
+  "communication_type": 7,
+  "aggregation_date": {
+    "year": 2022,
+    "month": 11
+  }
 }
